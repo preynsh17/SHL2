@@ -4,8 +4,7 @@ venv/
 # API Keys and secrets
 .env
 
-# Raw data (often large)
+# Raw/Training data not needed for app
 data/assessments.jsonl
-
-# FAISS index (binary file)
-data/assessments.faiss
+data/Gen_AI Dataset.xlsx
+data/~$Gen_AI Dataset.xlsx

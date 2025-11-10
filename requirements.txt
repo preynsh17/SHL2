@@ -5,5 +5,7 @@ python-dotenv
 pandas
 openpyxl
 regex
+fastapi
+uvicorn[standard]
 streamlit
 requests

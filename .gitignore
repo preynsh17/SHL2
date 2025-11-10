@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# API Keys and secrets
+.env
+
+# Raw data (often large)
+data/assessments.jsonl
+
+# FAISS index (binary file)
+data/assessments.faiss
